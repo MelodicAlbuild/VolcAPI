@@ -1,0 +1,15 @@
+{
+  "name": "volcapi",
+  "version": "1.0.0",
+  "description": "The Volc API for MelodicAlbuild Mods",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MelodicAlbuild",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
